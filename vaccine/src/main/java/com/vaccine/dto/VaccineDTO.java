@@ -28,11 +28,11 @@ public class VaccineDTO {
 
     @NotNull
     @Size(min = 1, max = 200)
-    private Integer max;
+    private double max;
 
     @NotNull
     @Size(min = 1, max = 200)
-    private Integer quantity;
+    private double quantity;
 
     @Enumerated
     @NotNull

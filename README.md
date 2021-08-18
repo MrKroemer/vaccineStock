@@ -1,4 +1,4 @@
-# vaccineStock: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de vacinas.
+# vaccineStock - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de vacinas.
 Aqui iremos testar uma API REST para o gerenciamento de estoques de vacinas. Vamos desenvolver testes unitários para validar o nosso sistema de 
 gerenciamento de estoques de vacina.
 
